@@ -117,3 +117,26 @@ i{
     border: 2px solid rgb(43, 0, 70);
     font-family: 'Acme', sans-serif;
 }
+
+#but1{
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    background-position-y: left;
+}
+#but2{
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    background-position-y: right;
+}
+#tot{
+    font-family: 'Acme', sans-serif;
+}
+
+#tag1{
+    font-family: 'Acme', sans-serif;
+    width: 100px;
+    height: auto;
+    border-radius: 20px;
+    border-color: black;
+    background-color: rgb(198, 128, 255);
+}
